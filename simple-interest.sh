@@ -3,7 +3,8 @@
    # annual rate of interest and time period in years.
 
    # Author: Upkar Lidder (IBM)
-   # Additional Authors : Rajat-gupta4083
+   # Additional Authors:
+   # <your Github username>
 
    
    # Input:
